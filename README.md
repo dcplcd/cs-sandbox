@@ -1,4 +1,4 @@
-# capstack
+# cs-sandbox
 
 ## Project setup
 ```
